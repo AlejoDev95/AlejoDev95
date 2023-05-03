@@ -3,7 +3,7 @@
 I really enjoy web development and love to share every learning and experience, so I invite you to this new adventure where I hope we can together take our knowledge to the next level.
 
 <p align='center'>
-  <a href="https://www.youtube.com/channel/UCgivlHFm7fBG9O04jEi-9CA" target="_blank">
+  <a href="https://www.youtube.com/channel/UCn2UiNJ2121jJ31hJFDyCPg" target="_blank">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
