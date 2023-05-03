@@ -3,23 +3,20 @@
 I really enjoy web development and love to share every learning and experience, so I invite you to this new adventure where I hope we can together take our knowledge to the next level.
 
 <p align='center'>
-  
   <a href="https://www.youtube.com/channel/UCgivlHFm7fBG9O04jEi-9CA" target="_blank">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
+
   <a href="https://twitter.com/DevAlejo95" target="_blank">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
+
   <a href="https://www.linkedin.com/in/AlejoDev95" target="_blank">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
 </p>
 
 <h2 align='center'>I'm sharing with you a list of my skills.</h2>
-
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
