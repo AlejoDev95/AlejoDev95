@@ -4,15 +4,15 @@ I really enjoy web development and love to share every learning and experience, 
 
 <p align='center'>
   
-  <a href="https://www.youtube.com/channel/UCgivlHFm7fBG9O04jEi-9CA">
+  <a href="https://www.youtube.com/channel/UCgivlHFm7fBG9O04jEi-9CA" target="_blank">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
-  <a href="https://twitter.com/DevAlejo95">
+  <a href="https://twitter.com/DevAlejo95" target="_blank">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/AlejoDev95">
+  <a href="https://www.linkedin.com/in/AlejoDev95" target="_blank">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
