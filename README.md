@@ -8,11 +8,11 @@ I really enjoy web development and love to share every learning and experience, 
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
-  <a href="https://twitter.com/briandv198">
+  <a href="https://twitter.com/DevAlejo95">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/briandv198">
+  <a href="https://www.linkedin.com/in/AlejoDev95">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
